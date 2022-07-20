@@ -1,0 +1,6 @@
+.card {
+    @apply  bg-white max-w-sm rounded-md border p-4;
+    a {
+        @apply text-slate-900
+    }
+}
